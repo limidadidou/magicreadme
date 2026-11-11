@@ -1,0 +1,2 @@
+# magicreadme
+An magic readme
